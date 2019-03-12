@@ -65,7 +65,6 @@
 ###############################################################################
 # exclude files from the release
 ###############################################################################
-/Source export-ignore
 /.gitattributes export-ignore
 /.gitignore export-ignore
 /*.sln export-ignore
